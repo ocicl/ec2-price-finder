@@ -1,0 +1,10 @@
+* ec2-price-finder
+
+Quickly find the cheapest EC2 instance that you need across multiple AWS regions.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chaitanyagupta/ec2-price-finder.git   |
+| commit  | 08727ca  |
+| systems | ec2-price-finder |
+|---------+-------------------------------------------|
+
